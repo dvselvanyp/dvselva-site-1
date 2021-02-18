@@ -1,10 +1,11 @@
 
 import './App.css';
+import SPAccordions from './components/SPAccordions';
 
 function App() {
   return (
     <div className="App">
-     <h3>This is test site</h3>
+    <SPAccordions />
     </div>
   );
 }
